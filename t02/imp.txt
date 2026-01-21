@@ -1,0 +1,2 @@
+- third variable not explicitly needed
+- good not keeping all elements of the sequence
