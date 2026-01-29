@@ -1,0 +1,4 @@
+- Once a prime factor is found, it can be removed from the number to reduce complexity.
+Since a number can be reduced down to just the sum of it's prime factors. This removes
+a large amount of the problem space. This doesn't fit in with the method I used (going
+from the top down) but will likely prove useful in future
