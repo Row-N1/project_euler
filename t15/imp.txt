@@ -1,0 +1,11 @@
+This one really didn't go well, but I left my through process in at all stages and I think it's good
+to show. It's very annoying that you can actually use binomial 40 C 20, and I got agonisingly close
+to re-discovering the formula (I literally did 2n! / n ^ 2), but the brute force pascal triangle
+worked too.
+There were definitely some silly errors while working on this but I also think I had some good ideas,
+though this one really left me feeling like I should've gotten it sooner. Perhaps I need to go even
+further back and revise the maths at the core of this problem. It just didn't compute to me that
+you could 'choose' 20 options out of 40, implicitly doing the other 20 the other way. I also don't 
+recall binomial being about permutations instead of combinations but perhaps that the nCr nPr manual
+addition to the formula.
+I did my best to be mathematical and elegant. Oh well
